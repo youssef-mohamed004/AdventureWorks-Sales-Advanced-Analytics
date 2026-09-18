@@ -18,7 +18,17 @@ The objective of this project was not simply to build a Power BI dashboard.
 
 The goal was to understand the underlying business questions, analyze the data independently using SQL, validate the results, translate the analysis into Power BI, and communicate the findings through a technical report and management presentation.
 
+## 🧩 Data Model & Schema
 
+Before starting the analysis, I mapped and reviewed the relationships across the main AdventureWorks data domains, including **Person, Sales, and Production**.
+
+This data model provided the foundation for the analysis by clarifying how customers, territories, salespeople, orders, products, and geographical entities are connected.
+
+It also helped ensure that SQL joins and Power BI relationships were built on the correct keys and business relationships.
+
+### AdventureWorks Sales & Production Schema
+
+![AdventureWorks Sales & Production Schema](./04-Data-Model/AdventureWorks_Sales_Production_Schema.png)
 
 The project was developed across two main analytical stages:
 
