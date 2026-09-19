@@ -389,7 +389,7 @@ The video covers the complete project journey:
 
 **Power BI Dashboards → SQL Analysis → Technical Report → Management Presentation**
 
-🔗 **[Watch the Project Walkthrough on LinkedIn](ADD-LINK-HERE)**
+🔗 **[Watch the Project Walkthrough on LinkedIn](https://lnkd.in/p/efHkchf3)**
 
 ---
 
